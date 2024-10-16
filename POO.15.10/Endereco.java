@@ -1,4 +1,4 @@
-public class Endereco{
+public void Endereco(){
 
 	String rua = "";
 	int num = 0;
